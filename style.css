@@ -222,6 +222,7 @@ header ul li a:hover::before {
 
 }
 .home-services h2 {
+  padding: 30px;
 }
 
 
@@ -262,6 +263,10 @@ header ul li a:hover::before {
   flex-wrap: nowrap;
   text-align: center;
 }
+
+
+
+
 
 @media (max-width: 1000px) {
   .toggle {
