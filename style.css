@@ -288,6 +288,7 @@ header ul li a:hover::before {
     left: 0;
     flex-direction: column;
     width: 100%;
+    z-index: 900;
     background-color: #121212f3;
     height: calc(100vh - 80px);
     transform: translateX(100%);
